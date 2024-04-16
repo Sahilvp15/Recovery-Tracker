@@ -35,7 +35,7 @@ The significance of our project extends to its potential impact on families and 
    
 4. Clone the repository:
    ```bash
-   git clone git@github.com:Kunj-13/Recovery-Tracker.git
+   git clone git@github.com:Sahilvp15/Recovery-Tracker.git
    cd Recovery-Tracker
    ```
   
