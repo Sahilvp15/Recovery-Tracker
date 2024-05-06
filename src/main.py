@@ -1,5 +1,5 @@
 # main.py
-# This is the entry point of the Journal App where user interaction is handled.
+# This is the entry point of the Recovery Tracker where user interaction is handled.
 
 # Import necessary functions from other modules
 from admin_module import (

@@ -1,5 +1,5 @@
 # shared_functions.py
-# This module provides common utility functions used across the Journal App.
+# This module provides common utility functions used across the Recovery Tracker.
 
 import json
 import os

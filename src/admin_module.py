@@ -1,5 +1,5 @@
 # admin_module.py
-# This module contains functions related to admin actions in the Journal App.
+# This module contains functions related to admin actions in the Recovery Tracker.
 
 # Importing necessary functions from shared_functions module for various operations.
 from shared_functions import read_credentials, write_credentials, \
